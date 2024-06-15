@@ -1,4 +1,4 @@
-public class Main {
+public class Main{
     public static void main(String[] args) {
 		Cliente alan = new Cliente();
 		alan.setNome("Alan");
